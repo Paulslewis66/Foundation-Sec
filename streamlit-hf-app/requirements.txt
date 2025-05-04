@@ -1,0 +1,6 @@
+streamlit-hf-app/streamlit-hf-app/requirements.txt
+streamlit
+transformers
+torch
+streamlit-aggrid
+```
